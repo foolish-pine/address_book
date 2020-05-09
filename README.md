@@ -1,4 +1,10 @@
-# sample-app
+# My Address Book
+
+## このアプリケーションについて
+このアプリケーションは以下のUdemyの講座にて作成したSPAです。
+<br>
+<br>
+『[Vue.js + Firebaseで作るシングルページアプリケーション Vue.jsを使用したモダンなフロントエンド開発を学ぼう](https://www.udemy.com/course/vuejs-firebase/)』
 
 ## Project setup
 ```
